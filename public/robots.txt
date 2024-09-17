@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://deepblue2333.github.io/sitemap.xml
